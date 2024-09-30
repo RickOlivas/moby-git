@@ -14,4 +14,4 @@ En el dia 3 pruebo un poco más (tilde¿?) esto del ***Markdown***. Vamos con un
 * Subelemento 2
 
 Me he dado cuenta de que se pueden meter **imagenes**
-![screen](C:/Users/rolivas/Curso_GIT/moby-git/notebook.jpg)
+![Mi cuaderno](/C:/Users/rolivas/Curso_GIT/moby-git/notebook.jpg)
