@@ -22,3 +22,6 @@ Estoy probando mi rama *first-revision*
 ## DIA 5 del main
 Esto va a entrar en conflicto, al hacer el cherry pick me pondre lo de la rama test aquí debajo
 Rama para **mis pruebas**
+
+## DIA 6
+Aquí voy  a hacer un amend de un txt
