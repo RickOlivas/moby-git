@@ -18,3 +18,6 @@ Me he dado cuenta de que se pueden meter **imagenes**
 
 ## DIA 4
 Estoy probando mi rama *first-revision*
+
+## DIA 5 del main
+Esto va a entrar en conflicto, al hacer el cherry pick me pondre lo de la rama test aquí debajo
